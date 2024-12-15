@@ -1,0 +1,60 @@
+body {
+    background-image: url('retro.gif'); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center; 
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.header {
+    background-image: url('robotics-club.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #fff;
+    padding: 40px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.content {
+    padding: 30px;
+    background-color: rgba(242, 230, 247, 0.8); 
+    border-radius: 5px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    opacity: 1; 
+    margin-top: 20px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    padding: 10px;
+    background-color: #83578f;
+    color: #fff;
+}
+
+.navbar-nav .nav-item .nav-link.active {
+    font-weight: bold;
+    color: #ffcc00 !important; 
+}
+
+.form-control {
+    margin-bottom: 10px;
+}
+
+.btn-primary {
+    background-color: #83578f;
+    border-color: #83578f;
+}
+
+.btn-primary:hover {
+    background-color: #6e4576;
+    border-color: #6e4576;
+}
+
+h1, h2, p, label, .nav-link {
+    color: #fff;
+}
